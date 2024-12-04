@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
+
+#ext_menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #1a8038;
+}
+#ext_menu-3 .mbr-navbar__section {
+  background: #1a8038;
+}
+#ext_menu-3 .mbr-navbar__hamburger {
+  color: #7ac673;
+}
+#ext_menu-3 .mbr-brand__name a {
+  font-family: 'PT Serif', serif;
+  font-size: 24px;
+}
+#slider-8 .btn {
+  font-size: 30px;
+}
+#slider-8 H1 {
+  text-align: center;
+}
+#msg-box1-14 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-14 .mbr-article {
+  color: #fff;
+}
