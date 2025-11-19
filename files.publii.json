@@ -1,0 +1,242 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "a9e4f4e90b25a55e3915d57d7eaba57c"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/fontawesome-all.min.css",
+        "type": "file",
+        "md5": "85514f933f9e0b82460af63f1a403fa5"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "3c2705aa0503741f2449a69acfa51378"
+    },
+    {
+        "path": "/assets/css/noscript.css",
+        "type": "file",
+        "md5": "efa867a99f5064d6729e4dc2008ad50b"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "6d92336350d5374cc2b2fb5720b76be5"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/images",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/images/overlay.png",
+        "type": "file",
+        "md5": "34aca8cf1dcd5a4077c26c80950d00c6"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/breakpoints.min.js",
+        "type": "file",
+        "md5": "81a479eb099e3b187613943b085923b8"
+    },
+    {
+        "path": "/assets/js/browser.min.js",
+        "type": "file",
+        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+    },
+    {
+        "path": "/assets/js/jquery.min.js",
+        "type": "file",
+        "md5": "c9771cc3e90e18f5336eedbd0fffb2cf"
+    },
+    {
+        "path": "/assets/js/jquery.scrollex.min.js",
+        "type": "file",
+        "md5": "f89065e3d988006af9791b44561d7c90"
+    },
+    {
+        "path": "/assets/js/jquery.scrolly.min.js",
+        "type": "file",
+        "md5": "1ed5a78bde1476875a40f6b9ff44fc14"
+    },
+    {
+        "path": "/assets/js/main.js",
+        "type": "file",
+        "md5": "d5433762aebe47e7d1471db6d18f28ae"
+    },
+    {
+        "path": "/assets/js/main.min.js",
+        "type": "file",
+        "md5": "56233c354bd814758be8bff42f7e13a5"
+    },
+    {
+        "path": "/assets/js/util.js",
+        "type": "file",
+        "md5": "fd2716a7b68ce7748c9676787b61db43"
+    },
+    {
+        "path": "/assets/js/util.min.js",
+        "type": "file",
+        "md5": "4201a626f8c9b614a663b3a1d7d82615"
+    },
+    {
+        "path": "assets/webfonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "7d09abecdcbd61d9f7eed02ad7ed9f3e"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "12129ae64db69ed98868da86ad4542b6"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "49db3589f7cc4e2c2fbd61073450b881"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "1183f80a7de1312c6aaed6cb2040d26b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "f4242a99ea504fbf8ddefb40c853de4d"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "de8cf878500c5ec452ae912ddb9c7aaa"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.ttf",
+        "type": "file",
+        "md5": "d38445641a866e80bccf9cb4c4a03de8"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.woff2",
+        "type": "file",
+        "md5": "5f14f683621dbaf2d3644848b74c5a7f"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/anna",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/anna/index.html",
+        "type": "file",
+        "md5": "f2991df1706911bea5d79636ed0b6bf1"
+    },
+    {
+        "path": "dizpanser.html",
+        "type": "file",
+        "md5": "678ececa93dde9adf84b12440013cd70"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "48743c900c5c2d70a95fdf31f89267a7"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/c5eb508f2421f45f1de476c5ab631b9d.jpg",
+        "type": "file",
+        "md5": "277632a35c7e4560cddb3b0825fd8a64"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/c5eb508f2421f45f1de476c5ab631b9d-2xl.jpg",
+        "type": "file",
+        "md5": "72d0beabf3cd7c282c8ab765a7c5785a"
+    },
+    {
+        "path": "/media/website/responsive/c5eb508f2421f45f1de476c5ab631b9d-lg.jpg",
+        "type": "file",
+        "md5": "72d0beabf3cd7c282c8ab765a7c5785a"
+    },
+    {
+        "path": "/media/website/responsive/c5eb508f2421f45f1de476c5ab631b9d-md.jpg",
+        "type": "file",
+        "md5": "72d0beabf3cd7c282c8ab765a7c5785a"
+    },
+    {
+        "path": "/media/website/responsive/c5eb508f2421f45f1de476c5ab631b9d-sm.jpg",
+        "type": "file",
+        "md5": "f6f74159392411b93586965af262739a"
+    },
+    {
+        "path": "/media/website/responsive/c5eb508f2421f45f1de476c5ab631b9d-xl.jpg",
+        "type": "file",
+        "md5": "72d0beabf3cd7c282c8ab765a7c5785a"
+    },
+    {
+        "path": "/media/website/responsive/c5eb508f2421f45f1de476c5ab631b9d-xs.jpg",
+        "type": "file",
+        "md5": "db26b66058307efc4e94065de00ccbe5"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "331638bde5c98cfb6d8567635551cd7a"
+    }
+]
